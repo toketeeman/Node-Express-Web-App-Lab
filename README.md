@@ -7,4 +7,4 @@ Express serves as the web server with Express support for validation and session
 
 The database support is Mongoose/MongoDB. The order payment support is simulated with Stripe.
 
-File-upload and file-download support has been provided.
+File-upload, file-download support, and basic authentication has also been provided.
